@@ -89,10 +89,10 @@ python main.py
 ```text
 Server-killing-bot/
 │
-├── Botkiller.py    # Основной файл с кодом бота
-├── .gitignore      # Исключения для Git
-├── LICENSE         # Лицензия проекта
-└── README.md       # Описание и документация
+├── .gitignore
+├── Botkiller.py
+├── LICENSE
+└── README.md
 ```
 
 ---
