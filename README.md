@@ -121,4 +121,4 @@ GitHub: https://github.com/momentobood
 
 ---
 
-**☢️ Server-killing-bot — Экстренное управление. Максимальная ответственность.**# Server-killing-bot
+**☢️ Server-killing-bot — Экстренное управление. Максимальная ответственность.**
