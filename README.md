@@ -116,7 +116,7 @@ Server-killing-bot/
 
 **momentobood**
 
-GitHub: https://github.com/USERNAME
+GitHub: https://github.com/momentobood
 
 ---
 
