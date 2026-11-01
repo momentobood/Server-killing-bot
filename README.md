@@ -89,9 +89,10 @@ python main.py
 ```text
 Server-killing-bot/
 │
-├── main.py
-├── requirements.txt
-└── README.md
+├── Botkiller.py    # Основной файл с кодом бота
+├── .gitignore      # Исключения для Git
+├── LICENSE         # Лицензия проекта
+└── README.md       # Описание и документация
 ```
 
 ---
